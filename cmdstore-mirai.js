@@ -1,6 +1,6 @@
 const axios = require('axios');
-const availableCmdsUrl = "https://raw.githubusercontent.com/Blankid018/N1SA9/main/availableCmds.json";
-const cmdUrlsJson = "https://raw.githubusercontent.com/Blankid018/N1SA9/main/cmdUrls.json";
+const availableCmdsUrl = "https://raw.githubusercontent.com/Nisanxnx/N1SA9/main/availableCmds.json";
+const cmdUrlsJson = "https://raw.githubusercontent.com/Nisanxnx/N1SA9/main/cmdUrls.json";
 const ITEMS_PER_PAGE = 10;
 
 module.exports.config = {
