@@ -1,14 +1,14 @@
 const axios = require("axios");
-const availableCmdsUrl = "https://raw.githubusercontent.com/Nisanxnx/N1SA9/main/availableCmds.json";
-const cmdUrlsJson = "https://raw.githubusercontent.com/Nisanxnx/N1SA9/main/cmdUrls.json";
+const availableCmdsUrl = "https://raw.githubusercontent.com/Nisanxnx/N1SA9/main/cmdUrls.json";
+const cmdUrlsJson = "https://raw.githubusercontent.com/Nisanxnx/N1SA9/main/availableCmds.json";
 const ITEMS_PER_PAGE = 10;
 
 module.exports.config = {
   name: "cmdstore",
   aliases: ["cs", "cmds"],
   author: "Dipto",
-  role: 1,
-  version: "6.9",
+  role: 0,
+  version: "0.1",
   description: {
     en: "Commands Store of Dipto",
   },
@@ -117,7 +117,7 @@ const  { status }  = Reply.cmdName[reply - 1]
       );
     }
     api.unsendMessage(Reply.messageID);
-    const msg = `╭───────⭓\n│ STATUS :${status || null}\n│ Command Url: ${selectedCmdUrl}\n╰─────────────⭓`;
+    const msg = `╭────────۞\n| STATUS :${status || null}\n| Command Url: ${selectedCmdUrl}\n╰─────────────۞`;
     api.sendMessage(msg, event.threadID, event.messageID);
   } catch (error) {
     api.sendMessage(
@@ -126,4 +126,4 @@ const  { status }  = Reply.cmdName[reply - 1]
       event.messageID
     );
   }
-};
+  }
