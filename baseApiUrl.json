@@ -1,5 +1,12 @@
 {
   "api": "https://www.noobs-api.000.pe/dipto",
   "baby":"https://www.noobs-api.rf.gd/dipto",
-  "cmdstore": "https://cmd-store.vercel.app/kshitiz"
+  "cmdstore": "https://cmd-store.vercel.app/kshitiz",
+  "vercel": "https://nazrul-xyz.vercel.app",
+  "ytdl": "https://ytdl-api-production.up.railway.app",
+  "csb": "https://2wr3p2-3000.csb.app",
+  "iApi": "https://nazrul-apis.koyeb.app",
+  "bs": "https://svs27f-3000.csb.app",
+  "alldl": "https://alldl-apis-production.up.railway.app",
+  "dipto": "https://www.noobs-api.rf.gd/dipto"
 }
