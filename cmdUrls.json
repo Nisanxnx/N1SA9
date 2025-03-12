@@ -6,12 +6,28 @@
       "update": "03/12/2024",
       "status": "on"
     },
+    {
+  "cmdName": [
+    {
+      "cmd": "autodl-mirai.js",
+      "author": "Dipto",
+      "update": "03/12/2024",
+      "status": "on"
+    },
 {
   "cmdName": [
     {
-      "cmd": "cmdstore-goat.js",
+      "cmd": "cmdstore-mirai.js",
       "author": "Dipto",
       "update": "03/11/2024",
+      "status": "on"
+    },
+    {
+  "cmdName": [
+    {
+      "cmd": "cmdstore-mirai.js",
+      "author": "Dipto",
+      "update": "03/12/2024",
       "status": "on"
     },
     {
@@ -20,5 +36,45 @@
       "cmd": "baby-sim-goat.js",
       "author": "Dipto",
       "update": "03/11/2024",
+      "status": "on"
+    },
+    {
+  "cmdName": [
+    {
+      "cmd": "baby-sim-mirai.js",
+      "author": "Dipto",
+      "update": "03/12/2024",
+      "status": "on"
+    },
+    {
+  "cmdName": [
+    {
+      "cmd": "spy-goat.js",
+      "author": "Dipto",
+      "update": "03/12/2024",
+      "status": "on"
+    },
+    {
+  "cmdName": [
+    {
+      "cmd": "spy-mirai.js",
+      "author": "Dipto",
+      "update": "03/12/2024",
+      "status": "on"
+    },
+    {
+  "cmdName": [
+    {
+      "cmd": "shell-goat.js",
+      "author": "Dipto",
+      "update": "03/12/2024",
+      "status": "on"
+    },
+    {
+  "cmdName": [
+    {
+      "cmd": "shell-mirai.js",
+      "author": "Dipto",
+      "update": "03/12/2024",
       "status": "on"
     },
