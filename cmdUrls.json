@@ -1,6 +1,14 @@
 {
   "cmdName": [
     {
+      "cmd": "autodl-goat.js",
+      "author": "Dipto",
+      "update": "03/12/2024",
+      "status": "on"
+    },
+{
+  "cmdName": [
+    {
       "cmd": "cmdstore-goat.js",
       "author": "A6Y",
       "update": "03/11/2024",
