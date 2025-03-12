@@ -54,9 +54,9 @@ module.exports.onStart = async function ({ api, event, args }) {
     const startIndex = (page - 1) * ITEMS_PER_PAGE;
     const endIndex = startIndex + ITEMS_PER_PAGE;
     const cmdsToShow = finalArray.slice(startIndex, endIndex);
-    let msg = `╭───✦ Cmd Store ✦───╮\n│ Page ${page} of ${totalPages} page(s)\n│ Total ${finalArray.length} commands\n`;
+    let msg = `╭───✦ Cmd Store ✦───╮\n│\n| page ${page} of ${totalPages} page(s)\n| Total ${finalArray.length} commands\n`;
     cmdsToShow.forEach((cmd, index) => {
-      msg += `│ ───✦ ${startIndex + index + 1}. ${cmd.cmd}\n│ AUTHOR: ${cmd.author}\n│ UPDATE: ${cmd.update || null}\n`;
+      msg += `│ ───✦ ${startIndex + index + 1}. ${cmd.cmd}\n| AUTHOR: ${cmd.author}\n| DATE: ${cmd.update || null}\n`;
     });
     msg += `╰─────────────⧕`;
 
