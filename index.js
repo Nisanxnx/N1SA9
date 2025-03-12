@@ -37,7 +37,7 @@ function updateCmdUrls(commandFiles) {
   const cmdUrls = {};
   commandFiles.forEach(file => {
     const fileName = file.fileName;
-    const url = `https://raw.githubusercontent.com/Nisanxnx/N1SA9/blob/main/${fileName}`;
+    const url = `https://raw.githubusercontent.com/Nisanxnx/N1SA9/main/${fileName}`;
     cmdUrls[file.cmdName] = url;
   });
 
