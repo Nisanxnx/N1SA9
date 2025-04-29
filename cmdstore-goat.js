@@ -32,12 +32,12 @@ module.exports.onStart = async function ({ api, event, args }) {
       } else if (query.length === 1) {
         finalArray = cmds.filter(cmd => cmd.cmd.startsWith(query));
         if (finalArray.length === 0) {
-          return api.sendMessage(`❌ | No commands found starting with "${query}".`, event.threadID, event.messageID);
+          return api.sendMessage(`❌ | 𝙽𝚘 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚏𝚘𝚞𝚗𝚍 𝚜𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 "${query}".`, event.threadID, event.messageID);
         }
       } else {
         finalArray = cmds.filter(cmd => cmd.cmd.includes(query));
         if (finalArray.length === 0) {
-          return api.sendMessage(`❌ | Command "${query}" not found.`, event.threadID, event.messageID);
+          return api.sendMessage(`❌ | 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 "${query}" 𝚗𝚘𝚝 𝚏𝚘𝚞𝚗𝚍.`, event.threadID, event.messageID);
         }
       }
     }
@@ -45,7 +45,7 @@ module.exports.onStart = async function ({ api, event, args }) {
     const totalPages = Math.ceil(finalArray.length / ITEMS_PER_PAGE);
     if (page < 1 || page > totalPages) {
       return api.sendMessage(
-        `❌ | Invalid page number. Please enter a number between 1 and ${totalPages}.`,
+        `❌ | 𝙸𝚗𝚟𝚊𝚕𝚒𝚍 𝚙𝚊𝚐𝚎 𝚗𝚞𝚖𝚋𝚎𝚛. 𝙿𝚕𝚎𝚊𝚜𝚎 𝚎𝚗𝚝𝚎𝚛 𝚊 𝚗𝚞𝚖𝚋𝚎𝚛 𝚋𝚎𝚝𝚠𝚎𝚎𝚗 𝟷 𝚊𝚗𝚍 ${totalPages}.`,
         event.threadID,
         event.messageID
       );
@@ -54,11 +54,11 @@ module.exports.onStart = async function ({ api, event, args }) {
     const startIndex = (page - 1) * ITEMS_PER_PAGE;
     const endIndex = startIndex + ITEMS_PER_PAGE;
     const cmdsToShow = finalArray.slice(startIndex, endIndex);
-    let msg = `╭───✦ Cmd Store ✦───╮\n│ Page ${page} of ${totalPages} page(s)\n│ Total ${finalArray.length} commands\n`;
+    let msg = `✨《 𝐘𝐎𝐔𝐑 𝐍𝐈𝐒𝐀𝐍 𝐂𝐌𝐃𝐒𝐓𝐎𝐑𝐄 》🎀\n\n╭━━━━━━━━━━━━━━━━━━━━━━━━╮\n├‣ 𝙿𝚊𝚐𝚎 ${page} 𝚘𝚏 ${totalPages} 𝚙𝚊𝚐𝚎(s)\n├‣ 𝚃𝚘𝚝𝚊𝚕 ${finalArray.length} 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜\n`;
     cmdsToShow.forEach((cmd, index) => {
-      msg += `│ ───✦ ${startIndex + index + 1}. ${cmd.cmd}\n│ AUTHOR: ${cmd.author}\n│ UPDATE: ${cmd.update || null}\n`;
+      msg += `├‣ ${startIndex + index + 1}. ${cmd.cmd}\n| 𝙰𝚄𝚃𝙷𝙾𝚁: ${cmd.author}\n│ 𝚄𝙿𝙳𝙰𝚃𝙴: ${cmd.update || null}\n`;
     });
-    msg += `╰─────────────⧕`;
+    msg += `╰━━━━━━━━━━━━━━━━━━━━━━━━╯`;
 
     if (page < totalPages) {
       msg += `\nType "${this.config.name} ${page + 1}" for more commands.`;
@@ -91,7 +91,7 @@ global.GoatBot.onReply.set(info.messageID, {
 module.exports.onReply = async function ({ api, event, Reply }) {
 
   if (Reply.author != event.senderID) {
-    return api.sendMessage("Who are you? 🐸", event.threadID, event.messageID);
+    return api.sendMessage("𝚆𝚑𝚘 𝚊𝚛𝚎 𝚢𝚘𝚞?🐸", event.threadID, event.messageID);
   }
   const reply = parseInt(event.body);
   const startIndex = (Reply.page - 1) * ITEMS_PER_PAGE;
@@ -99,7 +99,7 @@ module.exports.onReply = async function ({ api, event, Reply }) {
 
   if (isNaN(reply) || reply < startIndex + 1 || reply > endIndex) {
     return api.sendMessage(
-      `❌ | Please reply with a number between ${startIndex + 1} and ${Math.min(endIndex, Reply.cmdName.length)}.`,
+      `❌ | 𝙿𝚕𝚎𝚊𝚜𝚎 𝚛𝚎𝚙𝚕𝚢 𝚠𝚒𝚝𝚑 𝚊 𝚗𝚞𝚖𝚋𝚎𝚛 𝚋𝚎𝚝𝚠𝚎𝚎𝚗 ${startIndex + 1} 𝚊𝚗𝚍 ${Math.min(endIndex, Reply.cmdName.length)}.`,
       event.threadID,
       event.messageID
     );
@@ -111,17 +111,17 @@ const  { status }  = Reply.cmdName[reply - 1]
     const selectedCmdUrl = response.data[cmdName];
     if (!selectedCmdUrl) {
       return api.sendMessage(
-        "❌ | Command URL not found.",
+        "❌ | 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝚄𝚁𝙻 𝚗𝚘𝚝 𝚏𝚘𝚞𝚗.",
         event.threadID,
         event.messageID
       );
     }
     api.unsendMessage(Reply.messageID);
-    const msg = `╭───────⭓\n│ STATUS :${status || null}\n│ Command Url: ${selectedCmdUrl}\n╰─────────────⭓`;
+    const msg = `╭───────⭓\n├‣ 𝚂𝚃𝙰𝚃𝚄𝚂 :${status || null}\n├‣ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝚄𝚛𝚕: ${selectedCmdUrl}\n╰─────────────⭓`;
     api.sendMessage(msg, event.threadID, event.messageID);
   } catch (error) {
     api.sendMessage(
-      "❌ | Failed to retrieve the command URL.",
+      "❌ | 𝙵𝚊𝚒𝚕𝚎𝚍 𝚝𝚘 𝚛𝚎𝚝𝚛𝚒𝚎𝚟𝚎 𝚝𝚑𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚄𝚁𝙻.",
       event.threadID,
       event.messageID
     );
