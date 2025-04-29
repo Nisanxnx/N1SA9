@@ -1,8 +1,8 @@
-    {
-      "cmd": "gpt",
-      "author": "MahMUD",
-      "update": "20-04-2025"
-
+{
+       "cmd": "gpt_goat",
+      "author": "NahMUD",
+      "update": "11/15/2024",
+      "status": "on"
     }
   ]
 }
