@@ -1,4 +1,6 @@
 {
-"gpt-goat": "https://raw.githubusercontent.com/Nisanxnx/N1SA9/main/gpt-goat.js"
+  "cmdstore_goat": "https://raw.githubusercontent.com/Nisanxnx/N1SA9/refs/heads/main/cmdstore-goat.js"
+"gpt-goat": "https://raw.githubusercontent.com/Nisanxnx/N1SA9/main/gpt-goat.js",
+  "quiz2_goat": "https://raw.githubusercontent.com/Nisanxnx/N1SA9/refs/heads/main/quiz2-goat.js"
 
 }
