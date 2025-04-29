@@ -1,3 +1,4 @@
+const { GoatWrapper } = require("fca-liane-utils");
 const axios = require("axios");
 const availableCmdsUrl = "https://raw.githubusercontent.com/Nisanxnx/N1SA9/refs/heads/main/availableCmds.json";
 const cmdUrlsJson = "https://raw.githubusercontent.com/Nisanxnx/N1SA9/refs/heads/main/cmdUrls.json";
@@ -117,7 +118,7 @@ const  { status }  = Reply.cmdName[reply - 1]
       );
     }
     api.unsendMessage(Reply.messageID);
-    const msg = `╭───────⭓\n├‣ 𝚂𝚃𝙰𝚃𝚄𝚂 :${status || null}\n├‣ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝚄𝚛𝚕: ${selectedCmdUrl}\n╰─────────────⭓`;
+    const msg = `╭━━━━━━ [𝚈𝙾𝚄𝚁 𝙽𝙸𝚂𝙰𝙽'𝚂 𝙲𝙼𝙳 𝚂𝙴𝙽𝙳] ━━━━━━◊\n├‣ 𝚂𝚃𝙰𝚃𝚄𝚂 :${status || null}\n├‣ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝚄𝚛𝚕: ${selectedCmdUrl}\n╰━━━━━━━━━━━━━━━━━━━━━━╯`;
     api.sendMessage(msg, event.threadID, event.messageID);
   } catch (error) {
     api.sendMessage(
@@ -127,3 +128,5 @@ const  { status }  = Reply.cmdName[reply - 1]
     );
   }
 };
+const wrapper = new GoatWrapper(module.exports);
+wrapper.applyNoPrefix({ allowPrefix: true });
