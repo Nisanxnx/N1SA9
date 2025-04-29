@@ -1,6 +1,22 @@
 {
   "cmdName": [
     {
+  "cmd": "cmdstore_goat",
+  "author": "Dipto",
+  "update": "04/29/2025",
+  "status": "on"
+    },
+{
+  "cmdName": [
+    {
+  "cmd": "quiz2_goat",
+  "author": "Dipto",
+  "update": "04/29/2025",
+  "status": "on"
+    },
+{
+  "cmdName": [
+    {
   "cmd": "gpt_goat",
   "author": "MahMUD",
   "update": "04/20/2025",
