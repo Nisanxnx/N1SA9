@@ -56,7 +56,7 @@ module.exports.onStart = async function ({ api, event, args }) {
     const cmdsToShow = finalArray.slice(startIndex, endIndex);
     let msg = `✨《 𝐘𝐎𝐔𝐑 𝐍𝐈𝐒𝐀𝐍 𝐂𝐌𝐃𝐒𝐓𝐎𝐑𝐄 》🎀\n\n╭━━━━━━━━━━━━━━━━━━━━━━━━╮\n├‣ 𝙿𝚊𝚐𝚎 ${page} 𝚘𝚏 ${totalPages} 𝚙𝚊𝚐𝚎(s)\n├‣ 𝚃𝚘𝚝𝚊𝚕 ${finalArray.length} 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜\n`;
     cmdsToShow.forEach((cmd, index) => {
-      msg += `├‣ ${startIndex + index + 1}. ${cmd.cmd}\n| 𝙰𝚄𝚃𝙷𝙾𝚁: ${cmd.author}\n│ 𝚄𝙿𝙳𝙰𝚃𝙴: ${cmd.update || null}\n`;
+      msg += `├‣ ${startIndex + index + 1}. ${cmd.cmd}\n | 𝙰𝚄𝚃𝙷𝙾𝚁: ${cmd.author}\n│ 𝚄𝙿𝙳𝙰𝚃𝙴: ${cmd.update || null}\n`;
     });
     msg += `╰━━━━━━━━━━━━━━━━━━━━━━━━╯`;
 
