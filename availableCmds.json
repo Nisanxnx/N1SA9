@@ -31,6 +31,12 @@
       "status": "on"
     },
     {
+      "cmd": "poli_goat",
+      "author": "MahMud",
+      "update": "04/30/2025",
+      "status": "on"
+    },
+    {
       "cmd": "say_goat",
       "author": "MahMud",
       "update": "04/30/2025",
