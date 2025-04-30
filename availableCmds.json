@@ -7,6 +7,12 @@
       "status": "on"
     },
     {
+      "cmd": "fluxpro_goat",
+      "author": "MahMUD",
+      "update": "04/30/2025",
+      "status": "on"
+    },
+    {
       "cmd": "gpt_goat",
       "author": "MahMUD",
       "update": "04/20/2025",
