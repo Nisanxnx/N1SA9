@@ -65,6 +65,18 @@
       "author": "MahMud",
       "update": "04/30/2025",
       "status": "on"
-    }
+    },
+    {
+      "cmd": "sing_goat_v2",
+      "author": "Dipto",
+      "update": "05/01/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "song_goat_v3",
+      "author": "Dipto",
+      "update": "05/01/2025",
+      "status": "on"
+    },
   ]
 }
