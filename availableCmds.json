@@ -1,6 +1,12 @@
 {
   "cmdName": [
     {
+      "cmd": "autotime_goat",
+      "author": "Dipto",
+      "update": "05/01/2025",
+      "status": "on"
+    },
+    {
       "cmd": "autodl_goat",
       "author": "Dipto",
       "update": "04/30/2025",
