@@ -1,8 +1,8 @@
 module.exports = {
 	config: {
 		name: "listbox",
-		aliases: [],
-		author: "Xten ",
+		aliases: ["gclist"],
+		author: "⊱𝐍𝐈𝐒𝐀𝐍⊰",
 		version: "2.0",
 		cooldowns: 5,
 		role: 2,
@@ -31,7 +31,7 @@ module.exports = {
 				const formattedList = filteredList.map((group, index) =>
 					`│${index + 1}. ${group.threadName}\n│𝚃𝙸𝙳: ${group.threadID}`
 				);
-				const message = `╭─────❃\n│𝙻𝙸𝚂𝚃 𝙾𝙵 𝙶𝚁𝙾𝚄𝙿 𝙲𝙷𝙰𝚃𝚂:\n${formattedList.map(line => `${line}`).join("\n")}\n╰────────────✦`;
+				const message = `╭─────❃\n│𝗟𝗜𝗦𝗧 𝗢𝗙 𝗚𝗥𝗢𝗨𝗣 𝗖𝗛𝗔𝗧𝗦:\n${formattedList.map(line => `${line}`).join("\n")}\n╰────────────✦`;
 				await api.sendMessage(message, event.threadID, event.messageID);
 			}
 		} catch (error) {
