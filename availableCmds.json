@@ -66,6 +66,13 @@
       "update": "04/30/2025",
       "status": "on"
     },
+    },
+    {
+      "cmd": "railway_goat",
+      "author": "MahMud",
+      "update": "04/30/2025",
+      "status": "on"
+    },
     {
       "cmd": "say_goat",
       "author": "MahMud",
