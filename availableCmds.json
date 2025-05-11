@@ -102,6 +102,12 @@
       "author": "Dipto",
       "update": "05/11/2025",
       "status": "on"
+    },
+    {
+      "cmd": "stats2_goat",
+      "author": "BaYjid",
+      "update": "05/11/2025",
+      "status": "on"
     }
   ]
 }
