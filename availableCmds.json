@@ -149,6 +149,18 @@
       "author": "BaYjid",
       "update": "05/11/2025",
       "status": "on"
+    },
+    {
+      "cmd": "wlt_goat",
+      "author": "Dipto",
+      "update": "05/13/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "wlt_id_goat",
+      "author": "Dipto",
+      "update": "05/13/2025",
+      "status": "on"
     }
   ]
 }
