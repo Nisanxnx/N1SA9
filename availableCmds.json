@@ -145,6 +145,12 @@
       "status": "on"
     },
     {
+      "cmd": "stats_goat",
+      "author": "Mahi--",
+      "update": "05/17/2025",
+      "status": "on"
+    },
+    {
       "cmd": "stats2_goat",
       "author": "BaYjid",
       "update": "05/11/2025",
