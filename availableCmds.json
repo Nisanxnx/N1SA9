@@ -63,6 +63,12 @@
     {
       "cmd": "imgbb_goat",
       "author": "jubayer",
+      "update": "05/19/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "info_goat",
+      "author": "NAZRUL",
       "update": "04/20/2025",
       "status": "on"
     },
