@@ -37,6 +37,12 @@
       "status": "on"
     },
     {
+      "cmd": "drive_tgh",
+      "author": "ArYan",
+      "update": "08/18/2025",
+      "status": "on"
+    },
+    {
       "cmd": "fluxpro_goat",
       "author": "MahMUD",
       "update": "04/30/2025",
