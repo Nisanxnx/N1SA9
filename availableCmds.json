@@ -181,6 +181,12 @@
       "status": "on"
     },
     {
+      "cmd": "tinfo_tgh",
+      "author": "ArYan",
+      "update": "08/18/2025",
+      "status": "on"
+    },
+    {
       "cmd": "wlt_goat",
       "author": "Dipto",
       "update": "05/13/2025",
