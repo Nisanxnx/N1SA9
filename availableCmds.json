@@ -127,6 +127,12 @@
       "status": "on"
     },
     {
+      "cmd": "quiz_tgh",
+      "author": "ArYan",
+      "update": "08/18/2025",
+      "status": "on"
+    },
+    {
       "cmd": "runmocky_goat",
       "author": "Dipto",
       "update": "05/11/2025",
