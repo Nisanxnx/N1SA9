@@ -1,11 +1,11 @@
 {
- "api": "https://www.noobs-api.rf.gd/dipto",
+ "api": "https://api.noobs-api.rf.gd/dipto",
  "apis":[
-    "https://www.noobs-api.rf.gd/dipto",
-    "https://www.noobz-api.rf.gd/",
-    "https://www.noobs-api.rf.gd//dipto",
+    "https://api.noobs-api.rf.gd/dipto",
+    "https://api.noobz-api.rf.gd/",
+    "https://api.noobs-api.rf.gd//dipto",
     "https://rest-api-2-d3np.onrender.com/dipto",
-    "https://www.noobs-api.rf.gd/dipto",
+    "https://api.noobs-api.rf.gd/dipto",
     "https://2l8v4r-10000.csb.app/dipto",
     "https://www.x-noobs-apis.42web.io",
     "https://www.x-noobs-apis.42web.io/mostakim",
@@ -24,6 +24,6 @@
   "xnil2": "https://xn.xn.xn.kesug.com/xnil",
   "mostakim":"https://www.x-noobs-api.42web.io/",
   "nazrul": "https://www.x-noobs-apis.000.pe",
-  "noob": "https://www.noobs-apis.rf.gd",
+  "noob": "https://api.noobs-apis.rf.gd",
   "romim": "https://www.noobz-api.rf.gd/"
 }
