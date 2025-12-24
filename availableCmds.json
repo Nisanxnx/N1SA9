@@ -1,0 +1,694 @@
+{
+  "cmdName": [
+    {
+      "cmd": "4k",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "art_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "art_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "tiktok_id_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "tiktok_id_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "album_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "album_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "alldl_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "alldl_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "autodl",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "autotimer_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "baby_sim_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "baby_sim_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "catbox_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "catbox_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "cdp",
+      "author": "Dipto",
+      "update": "03/27/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "claude2_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "cmdstore_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "cmdstore_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "code_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "code_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "coverphoto_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "coverphoto_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "cricket_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "cricket_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "dalle_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "dalle_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "emi_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "fbcover_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "fbcover_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "flaggame_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "flaggame_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "flux_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "fluxpro_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "fluxpro_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "font_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "font_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "gcimg_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "gcimg_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "gemini_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "gemini2_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "gemini2_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "gemini_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "getlink_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "getlink_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "gist_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "gist_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "gpt4_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "image_data_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "image_data_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "imgur_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "imgur_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "lyrics_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "lyrics_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "manga_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "manga_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "meta_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "meta_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "pinterest_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "pinterest_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "prayer_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "prayer_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "profile_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "profile_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "prompt_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "prompt_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "quiz2_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "quiz2_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "quiz_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "quiz_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "removebg_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "removebg_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "runmocky_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "runmocky_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "sing_goat_v2",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "sing_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "sing_mirai_v2",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "sing_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "sing2_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "sing2_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "snippet_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "snippet_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "song_goat_v3",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "spamkick_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "spamkick_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "spy_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "spy_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "ss_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "ss_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "tag",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "tiksr2_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "tiksr2_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "tiksr_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "tiksr_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "tikstalk_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "tikstalk_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "upscaleai_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "upscaleai_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "v2a_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "v2a_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "video2_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "video2_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "wl",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "wlt",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "xl_3_1_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "ytb_goat",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "ytb_mirai",
+      "author": "Dipto",
+      "update": "03/16/2025",
+      "status": "on"
+    },
+    {
+      "cmd": "Alya_ai_Goat-X-Mirai.js",
+      "author": "Dipto",
+      "update": "04/07/2025",
+      "status": "on"
+    },
+    {
+       "cmd": "tempmail_goat",
+      "author": "Nyx",
+      "update": "11/15/2024",
+      "status": "on"
+    },
+    {
+       "cmd": "help_goat",
+      "author": "Mostakim",
+      "update": "11/15/2024",
+      "status": "on"
+    },
+    {
+       "cmd": "hack_goat",
+      "author": "Mostakim",
+      "update": "11/15/2024",
+      "status": "on"
+    },
+    {
+       "cmd": "slot",
+      "author": "Mostakim",
+      "update": "11/15/2024",
+      "status": "on"
+    },
+    {
+       "cmd": "balance_goat",
+      "author": "Mostakim",
+      "update": "11/15/2024",
+      "status": "on"
+    },
+    {
+       "cmd": "bank_goat.js",
+      "author": "Mostakim",
+      "update": "11/15/2024",
+      "status": "on"
+    },
+    {
+       "cmd": "uptime_goat",
+      "author": "Mostakim",
+      "update": "5/26/2025",
+      "status": "on"
+    }
+  ]
+}
